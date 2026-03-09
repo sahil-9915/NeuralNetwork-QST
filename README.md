@@ -1,0 +1,1 @@
+A Jupyter notebook demo of Quantum state tomography using Linear Inversion and Maximum Likelihood methods. Currently, the demo only includes the single-qubit case. I will later extend it to the multiqubit case.
